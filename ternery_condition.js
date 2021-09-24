@@ -12,5 +12,5 @@ var num = Number(prompt("Enter a nuber: "));
 // 	document.write("Zero");
 // }
 
-var result = num > 0 ? "Positive" : num<0 ? "Negative" : "Zero"; //ternary condition
+var result = num > 0 ? "</br>" + "Positive" : num<0 ? "</br>" + "Negative" : "</br>" + "Zero"; //ternary condition
 document.write(result);
