@@ -1,6 +1,3 @@
-// function alert_sms(){
-// 	alert("Are You Ready");
-// }
 
 function calcuate(){
 	var f = prompt("Enter a Farhenhite value: ");
