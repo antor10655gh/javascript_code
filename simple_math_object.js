@@ -56,4 +56,9 @@ var random = Math.floor(Math.random() * value6);
 
 document.write("</br>"+"The random value is: "+random);
 
+var value7 = parseFloat(prompt("Enter a value: "));
+
+var random1 = Math.floor(Math.random() * value7);
+
+document.write("</br>"+"The random value is: "+random1);
 
