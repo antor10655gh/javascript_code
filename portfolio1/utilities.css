@@ -55,3 +55,9 @@
 {
 	flex: 1;
 }
+
+.justify-center img
+{
+	width: 550px;
+	margin-left: 70px;
+}
